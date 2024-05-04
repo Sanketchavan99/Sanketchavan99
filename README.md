@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sanketchavan99
-- 👀 I’m interested in Enbedded System
+- 👀 I’m interested in Embedded System
 - 🌱 I’m currently learning Bangalore Institute of Technology
 - 💞️ I’m looking to collaborate on Embedded c
 - 📫 How to reach me chavansanket345@gmail.com
