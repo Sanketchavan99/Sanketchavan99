@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanketchavan99
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Bangalore Institute of Technology
-- 💞️ I’m looking to collaborate on advance technology
+- 💞️ I’m looking to collaborate on software
 - 📫 How to reach me chavansanket345@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
